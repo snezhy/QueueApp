@@ -1,0 +1,10 @@
+div.table, div.table-heading {
+    border: 1px solid #b0afb0;
+    padding: 5px;
+}
+
+div.table-heading {
+    background-color: #b0afb0;
+    color: #FFFFFF;
+}
+
